@@ -115,11 +115,7 @@
 			width: 16.333%; 
 			padding-top: 30px;
 			} 
-			
-			#div occurdiv {
-			
-		
-			
+
 			}
 			
 	    </style>
