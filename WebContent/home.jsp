@@ -128,7 +128,7 @@
 <body>
 
 <script language="javascript" type="text/javascript">
-
+	//Test Comment for Git.
 	$(function(){
 
 		getResult();
@@ -164,7 +164,7 @@
 	
 	function getResult(){
 		
-	   $.ajax({
+	   $.ajax({ 
             url : 'getResult.htm',
             cache : false,
             success : function(data) {
